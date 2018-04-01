@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "399293587847",
+    "firebase_url": "https://modul6-3a2bf.firebaseio.com",
+    "project_id": "modul6-3a2bf",
+    "storage_bucket": "modul6-3a2bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399293587847:android:8ff5f8ffab394f9e",
+        "android_client_info": {
+          "package_name": "com.razerblade.waskito_1202154223_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399293587847-thb2c89dhfgg4tdmre62cengag8dtmqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.razerblade.waskito_1202154223_modul6",
+            "certificate_hash": "7358043e1a2f51863b6b57bd20853a201c01d80a"
+          }
+        },
+        {
+          "client_id": "399293587847-o03q8da1hilcesorg90e9kjtmv9cro38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPQa1Yi6TyXwNb9SsT2Z0N5XsCfuIFhj0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399293587847-o03q8da1hilcesorg90e9kjtmv9cro38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
